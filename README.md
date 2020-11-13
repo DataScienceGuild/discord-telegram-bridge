@@ -17,6 +17,8 @@ npm install -g discord-telegram-bridge
 
 - Create a Discord bot.
 - Create a Telegram bot by talking to botFather
+**IMPORTANT**: Make the bot an admin in your group, or go to BotFather -> bot settings and disable private mode.
+
 - Create a Discord webhook. You can do this by going to Server settings -> Webhooks. Copy the URL, you'll need it later.
 
 > If you want to run it on heroku, you can just click the button below.
